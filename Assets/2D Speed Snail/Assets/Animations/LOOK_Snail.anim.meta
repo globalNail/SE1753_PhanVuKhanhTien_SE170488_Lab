@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c545a04abcabcde488d3361f536e0a67
+timeCreated: 1516643418
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109986
+  packageName: 2D Speed Snail
+  packageVersion: 1.4
+  assetPath: Assets/2D Speed Snail/Assets/Animations/LOOK_Snail.anim
+  uploadId: 410431

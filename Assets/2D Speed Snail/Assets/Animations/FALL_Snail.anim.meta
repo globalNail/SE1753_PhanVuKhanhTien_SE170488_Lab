@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c70788e27dbbc504085ad17816accf91
+timeCreated: 1516651283
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109986
+  packageName: 2D Speed Snail
+  packageVersion: 1.4
+  assetPath: Assets/2D Speed Snail/Assets/Animations/FALL_Snail.anim
+  uploadId: 410431

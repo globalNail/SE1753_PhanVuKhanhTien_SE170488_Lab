@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8f5c0f7c5e95aa4419a4a615cc5d499e
+timeCreated: 1516723338
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109986
+  packageName: 2D Speed Snail
+  packageVersion: 1.4
+  assetPath: Assets/2D Speed Snail/Assets/Scenes/Example/Anim/Rocket.anim
+  uploadId: 410431
