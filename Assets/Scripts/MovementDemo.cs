@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class MovementDemo : MonoBehaviour
 {
-    float movementSpeed = 10f;
+    float movementSpeed = 5f;
     float x, y, z;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     Vector3 tempPos = new Vector3(0, 0, 0f);
@@ -16,12 +16,12 @@ public class MovementDemo : MonoBehaviour
         if (x > 0)
         {
             // Face right
-            transform.localScale = new Vector3(4, 4, 4);
+            transform.localScale = new Vector3(1, 1, 1);
         }
         else if (x < 0)
         {
             // Face left
-            transform.localScale = new Vector3(-4, 4, 4);
+            transform.localScale = new Vector3(-1, 1, 1);
         }
         tempPos = new Vector3(x, y, 0f);
         transform.Translate(movementSpeed * Time.deltaTime * tempPos);
