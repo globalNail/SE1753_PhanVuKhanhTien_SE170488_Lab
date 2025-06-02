@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\MovementRigidBody.cs" />
     <Compile Include="Assets\Scripts\HorizontalMovement.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\NinjaGirlMonoBe.cs" />
     <Compile Include="Assets\Scripts\ObjectSpawn.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
   </ItemGroup>
